@@ -25,7 +25,7 @@
 }
 
 body {
-    color: var(--text-color);
+    color: var(--text-base);
     overflow-x: hidden;
 }
 
@@ -57,7 +57,7 @@ img {
 }
 
 .btn:hover {
-    background: var(--gradent2);
+    background: var(--gradient2);
     transform: translateY(-3px) scale(1.03);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
