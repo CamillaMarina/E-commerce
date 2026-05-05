@@ -46,11 +46,11 @@ export default function Produtos() {
 
                     <div className="card">
                         <div className="card-image">
-                            <img src={tamanco} alt="Tamanco"/>
+                            <img src={tamanco} alt="Tamanco courino"/>
                         </div>
 
                         <div className="card-info">
-                            <h3>Tamanco</h3>
+                            <h3>Tamanco courino</h3>
                             <p className='preco'>R$ 329,90</p>
                             <button className="btn">Comprar agora</button>
                         </div>
@@ -58,11 +58,11 @@ export default function Produtos() {
 
                     <div className="card">
                         <div className="card-image">
-                            <img src={tenis} alt="Tênis marrom"/>
+                            <img src={tenis} alt="Tênis camurça"/>
                         </div>
 
                         <div className="card-info">
-                            <h3>Tênis Marrom</h3>
+                            <h3>Tênis Camurça</h3>
                             <p className='preco'>R$ 199,90</p>
                             <button className="btn">Comprar agora</button>
                         </div>
